@@ -1,0 +1,28 @@
+[
+  {
+    "id":1,
+    "address":"12 Valley of Hihg Places",
+    "country":"Switzerland",
+    "decription":"A super detached Victorian property on one top country",
+    "price":900000,
+    "photo":"106399"
+  },
+
+  {
+    "id":2,
+    "address":"12 Valley of Hihg Places",
+    "country":"Switzerland",
+    "decription":"A super detached Victorian property on one top country",
+    "price":900000,
+    "photo":"1396132"
+  },
+  {
+    "id":3,
+    "address":"12 Valley of Hihg Places",
+    "country":"Switzerland",
+    "decription":"A super detached Victorian property on one top country",
+    "price":900000,
+    "photo":"8583869"
+  }
+
+]
